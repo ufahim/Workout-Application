@@ -10,6 +10,8 @@ import android.widget.TextView
 import com.bumptech.glide.Glide
 
 class MainActivity : AppCompatActivity() {
+
+    //change 1
     private lateinit var titleTextView: TextView
     private lateinit var exerciseTextView: TextView
     private lateinit var descriptionTextView: TextView
